@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">HOC</string>
+
+    <string name="title_activity_second_activiy">Interstitial</string>
+    <string name="msg_welcome">Welcome to Admob. Click on the below button to launch the Interstitial ad.</string>
+    <string name="btn_fullscreen_ad">Show Fullscreen Ad</string>
+    <string name="loading_video">Loading video…</string>
+
+
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer">ca-app-pub-5765163499845429/3977112194</string>
+    <string name="interstitial_full_screen">ca-app-pub-7038361324172338/2844998001</string>
+    <string name="interstitial_full_screen3">ca-app-pub-7038361324172338/4485011604</string>
+    <string name="interstitial_full_screen4">ca-app-pub-7038361324172338/7438478006</string>
+    <string name="interstitial_full_screen5">ca-app-pub-6389106177569908/7963839473</string>
+    <string name="interstitial_full_screen6">ca-app-pub-6389106177569908/1917305875</string>
+    <string name="interstitial_full_screen7">ca-app-pub-6389106177569908/3394039071</string>
+    <string name="interstitial_full_screen8">ca-app-pub-6389106177569908/4870772277</string>
+    <string name="interstitial_full_screen9">ca-app-pub-6389106177569908/1777705070</string>
+    <string name="interstitial_full_screen10">ca-app-pub-6389106177569908/7824238670</string>
+    <string name="interstitial_full_screen11">ca-app-pub-6389106177569908/9300971876</string>
+    <string name="interstitial_full_screen12">ca-app-pub-6389106177569908/3254438273</string>
+    <string name="interstitial_full_screen13">ca-app-pub-6389106177569908/7684637877</string>
+    <string name="interstitial_full_screen14">ca-app-pub-6389106177569908/9161371078</string>
+    <string name="interstitial_full_screen15">ca-app-pub-6389106177569908/1638104270</string>
+    <string name="interstitial_full_screen16">ca-app-pub-6389106177569908/3114837477</string>
+    <string name="interstitial_full_screen17">ca-app-pub-6389106177569908/4591570670</string>
+    <string name="interstitial_full_screen18">ca-app-pub-6389106177569908/6068303875</string>
+    <string name="interstitial_full_screen19">ca-app-pub-6389106177569908/1498503472</string>
+    <string name="interstitial_full_screen20">ca-app-pub-6389106177569908/2975236672</string>
+    <string name="interstitial_full_screen21">ca-app-pub-7038361324172338/7660634007</string>
+
+</resources>
+

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "175229082427",
+    "firebase_url": "https://nhoc-f0ea9.firebaseio.com",
+    "project_id": "nhoc-f0ea9",
+    "storage_bucket": "nhoc-f0ea9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175229082427:android:4c3781be157dcdab",
+        "android_client_info": {
+          "package_name": "services.boj.com.hoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175229082427-8lgcubi2l7h4cjptfcr2jp6p1afljvlh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRF4kggA4qr46pNm8qhQAGC38e9O7NoHE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
