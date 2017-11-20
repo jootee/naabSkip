@@ -59,7 +59,7 @@ public class MyFirebaseInstanceIDService extends FirebaseInstanceIdService {
         OkHttpClient client =  new OkHttpClient();
         RequestBody body = new FormBody.Builder()
                 .add("Token",refreshedToken)
-                .add("mail","jootee4life@gmail.com")
+                .add("mail","ife@gil.com")
                 .build();
         Request request = new Request.Builder()
                 .url("http://skiqs.com/logins/tokens.php")
